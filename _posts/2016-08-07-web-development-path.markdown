@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Intro"
+title: "Web Development Path"
 date: 2016-08-7 20:43:53 +0700
 categories: Dev
 ---
