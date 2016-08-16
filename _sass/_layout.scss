@@ -203,11 +203,10 @@ footer .wrapper {
 .page-heading {
     font-size: 20px;
     display: inline;
-    margin: 5px 40px 5px -30px;
+    margin: 5px 40px 5px -45px;
     padding: 5px 40px 5px 10px;
-    background-color: $blue-color;
+    background-color: $pink-color;
     color: $background-color;
-    border-top-right-radius: 15px;
 }
 
 .post-list {
@@ -223,6 +222,8 @@ footer .wrapper {
     font-size: $small-font-size;
     color: $grey-color;
     padding-right: 10px;
+    font-size: 12.4px;
+    color: #828282;
 }
 
 h2 .post-link {
@@ -240,13 +241,16 @@ h2 .post-link {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit - 10;
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 26px;
     letter-spacing: -1px;
     line-height: 1;
+    text-align: right;
+    text-align: left;
+    margin-top: 15px;
 
     @include media-query($on-laptop) {
         font-size: 36px;
