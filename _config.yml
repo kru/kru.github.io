@@ -6,15 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Personal Notes on Coding
-email: kristoforusrp[at]gmail.com
+title: Awesome blog
+year: 2015
 description: > # this means to ignore newlines until "baseurl:"
-  This is a personal note to what I've been learning (with the resource), 
-  I don't write this for other people because I am not good in writing. 
-  Instead, I did it for future references, tracking where I am right now, 
-  and make sure I am not lost.
+  Personal Notes on Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kristoforusrp.github.io" # the base hostname & protocol for your site
+author: kristoforusrp
 twitter_username: kristoforusrp
 github_username:  kristoforusrp
 

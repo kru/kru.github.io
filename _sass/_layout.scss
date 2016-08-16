@@ -99,12 +99,13 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    height: 70px;
+    background-color: $green-color;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit;
 }
 
 .contact-list,
@@ -115,7 +116,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $background-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -139,6 +140,25 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+footer .wrapper {
+    padding: 0;
+}
+
+.wrapper ul {
+    margin-left: 0;
+}
+
+.copyright p {
+    margin-top: $spacing-unit - 5px;
+}
+
+.copyright a {
+    color: $background-color;
+    &:hover {
+        color: $brand-color;
+    }
 }
 
 @include media-query($on-laptop) {
@@ -187,11 +207,16 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    padding-right: 10px;
+}
+
+h2 .post-link {
+    text-decoration: underline;
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+    display: inline;
+    font-size: 18px;
 }
 
 

@@ -1,13 +1,24 @@
 <footer class="site-footer">
 
+<div class="footer-col-wrapper">
   <div class="wrapper">
+     <ul class="copyright">
+       <p>Copyright &copy; {{ site.year }} by 
+        {% if site.twitter_username %}
+        <a href="https://www.twitter.com/{{ site.twitter_username }}" target="_blank">{{ site.author }}</a>
+        {% endif %}
+       </p>
+     </ul>
+   </div>
+</div>
+  <!-- <div class="wrapper">
 
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
+          <li>Contact Me :</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
@@ -34,5 +45,5 @@
     </div>
 
   </div>
-
+ -->
 </footer>
