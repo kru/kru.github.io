@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
-    background-color: $background-color;
+    background-color: $grey-color-light;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $blue-color;
     text-decoration: none;
 
     &:visited {
@@ -156,8 +156,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 4));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 4));
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
