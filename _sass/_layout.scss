@@ -3,10 +3,10 @@
  */
 .site-header {
     max-width: $content-width;
-    border-bottom: 1px solid $grey-color-light;
+    //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-    background-color: #00897B;
-    margin: 0 auto 5px;
+    background-color: $blue-color;
+    margin: 0 auto;
 
 
     // Positioning context for the mobile navigation icon
@@ -102,9 +102,9 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px;
     height: 70px;
-    background-color: $green-color;
+    background-color: $blue-color;
     max-width: $content-width;
     margin: 0 auto;
 }
@@ -163,7 +163,7 @@ footer .wrapper {
 .copyright a {
     color: $background-color;
     &:hover {
-        color: $brand-color;
+        color: #fafafa;
     }
 }
 
@@ -197,16 +197,19 @@ footer .wrapper {
     background-color: $background-color;
     padding: $spacing-unit 0;
     max-width: $content-width;
-    margin: 0 auto 5px;
+    margin: 0 auto;
 }
 
 .page-heading {
     font-size: 20px;
     display: inline;
-    margin: 5px 40px 5px -45px;
-    padding: 5px 40px 5px 10px;
-    background-color: $pink-color;
-    color: $background-color;
+    margin: 5px 40px 5px -30px;
+    padding: 5px 50px 5px 10px;
+    background-color: #0091ea;
+    color: #fafafa;
+    box-shadow: 2px 2px 3px #424242;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
 }
 
 .post-list {
@@ -239,7 +242,7 @@ h2 .post-link {
 
     &:hover {
         text-decoration: none;
-        color: $pink-color;
+        color: $blue-700;
     }
 }
 

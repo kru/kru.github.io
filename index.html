@@ -13,7 +13,6 @@ layout: default
         <h2>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </a>
-          <p class="time-count">{{ words | plus: 250 | divided_by: 100 | append: " minutes to read" }}</p>
         </h2>
       </li>
     {% endfor %}
