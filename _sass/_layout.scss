@@ -3,11 +3,11 @@
  */
 .site-header {
     max-width: $content-width;
-    //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
     background-color: $blue-color;
-    margin: 0 auto;
-
+    margin: 2em auto 0;
+    border-radius: 2px 2px 0 0;
+    box-shadow: 0 0 10px #999;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -102,11 +102,13 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid #fafafa;
+    //border-top: 1px solid #fafafa;
     height: 70px;
     background-color: $blue-color;
     max-width: $content-width;
-    margin: 0 auto;
+    margin: -30px auto 1em;
+    border-radius: 0 0 2px 2px;
+    box-shadow: 0 6px 10px #999;
 }
 
 .footer-heading {
@@ -124,6 +126,7 @@
     font-size: 15px;
     color: $background-color;
     margin-left: -$spacing-unit / 2;
+    margin-top: $spacing-unit - 10px;
     @extend %clearfix;
 }
 
@@ -149,7 +152,7 @@
 }
 
 footer .wrapper {
-    padding: 0;
+    padding: $spacing-unit - 10px 0 0 0;
 }
 
 .wrapper ul {
@@ -157,7 +160,7 @@ footer .wrapper {
 }
 
 .copyright p {
-    margin-top: $spacing-unit - 5px;
+    //margin-top: $spacing-unit - 5px;
 }
 
 .copyright a {
@@ -198,6 +201,7 @@ footer .wrapper {
     padding: $spacing-unit 0;
     max-width: $content-width;
     margin: 0 auto;
+    box-shadow: 0 0 1em #999;
 }
 
 .page-heading {
