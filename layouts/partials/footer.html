@@ -1,0 +1,11 @@
+<footer class="footer">
+  {{ with .Site.Params.footerHtml }}
+  <span>{{ . | safeHTML }}</span>
+  {{ else }}
+  <span>
+    © {{ now.Format "2006" }} {{ .Site.Params.author }}, {{ i18n "powered_by" }}
+    <a target="_blank" href="https://gohugo.io" class="footerLink">Hugo</a> {{ i18n "and" }}
+    <a target="_blank" href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> {{ i18n "theme" }}
+  </span>
+  {{ end }}
+</footer>
