@@ -7,7 +7,7 @@ author = "Kris Pamungkas"
 url = "about"
 +++
 
-## Hi, its me Kris
+## Hi, it's me Kris
 
 You may or may not know me. But, that doesn't matter.
 
@@ -17,7 +17,7 @@ Then,
 
 # You are welcome!
 
-You want to get connected? feel free to connect to my social medias.
+You want to get connected? feel free to connect to my social media.
 
 A little bit about myself:
 
