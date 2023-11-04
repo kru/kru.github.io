@@ -11,7 +11,7 @@ url = "about"
 
 You may or may not know me. But, that doesn't matter.
 
-I'm here to share what I learn in my journey, if you found that my articles here benefit you. 
+I'm here to share what I learn in my journey to myself, but if you found that my articles here benefit you. 
 
 Then,
 
