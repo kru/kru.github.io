@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Somewhere in the middle</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Somewhere in the middle</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 21:21:15 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Workflow using Debian and DWM</title>
+      <link>http://localhost:1313/posts/simple-workflow/</link>
+      <pubDate>Thu, 04 Jul 2024 21:21:15 +0700</pubDate>
+      <guid>http://localhost:1313/posts/simple-workflow/</guid>
+      <description>I have been using Linux for more than a decade, I mostly tweaking my dev environment to gain better productivity. These are my must have apps for my dev machine: zsh, neovim, alacritty, tmux, sublime, tailscale. There is a reason I have two text editors, sublime is really good at opening big files, so I&amp;rsquo;ll keep it until neovim can handle big files.&#xA;Ubuntu and Gnome has been always become my first choice of DE, it just works, ui feels intuitive, and looks good.</description>
+    </item>
+    <item>
+      <title>Data Migration Using AWS Lambda Scheduler</title>
+      <link>http://localhost:1313/posts/migrate-data-using-lambda/</link>
+      <pubDate>Thu, 06 Jun 2024 20:49:16 +0700</pubDate>
+      <guid>http://localhost:1313/posts/migrate-data-using-lambda/</guid>
+      <description>It has been a while since my last post, I did a lof of excuses to do my writing. I&amp;rsquo;m not that busy, just enjoying my life, outside digital world. These five months, I have been working on a cool project. I can not blaberring about the project details here, because I got an NDA agreeement. Fortunately, I have several things I learn and I want to keep as a note here.</description>
+    </item>
+    <item>
+      <title>Go Back to Fundamental</title>
+      <link>http://localhost:1313/posts/go-back-to-fundamental/</link>
+      <pubDate>Sat, 04 Nov 2023 13:30:37 +0700</pubDate>
+      <guid>http://localhost:1313/posts/go-back-to-fundamental/</guid>
+      <description>This week, I found myself engrossed in a series of YouTube videos—not the usual technical fare, but rather a collection of career advice and broader insights into software development. It was one of those late-night excursions into the world of online content. After I&amp;rsquo;d concluded my viewing, I decided it was time to call it a night and prepared to retire to bed. Yet, as I lay there, I couldn&amp;rsquo;t shake off the lingering curiosity, so I reached for my trusty iPad and absently refreshed my video suggestions.</description>
+    </item>
+    <item>
+      <title>Bouncing Back: My Journey from Layoff to Regaining Confidence</title>
+      <link>http://localhost:1313/posts/bouncing-back/</link>
+      <pubDate>Tue, 10 Oct 2023 23:01:16 +0700</pubDate>
+      <guid>http://localhost:1313/posts/bouncing-back/</guid>
+      <description>It has been a month since the unexpected layoff, and my journey to find a new opportunity has been nothing short of challenging. The job market is more competitive than ever, with resume filtering becoming increasingly stringent, making it even harder to secure initial interviews. During this time, I&amp;rsquo;ve encountered a significant shift in the hiring process, with many companies now incorporating competitive programming problems into their assessments.&#xA;While I can&amp;rsquo;t speak for everyone, I want to share my personal experience.</description>
+    </item>
+    <item>
+      <title>Obliterate the Wave</title>
+      <link>http://localhost:1313/obliterate-the-wave/</link>
+      <pubDate>Sat, 07 Oct 2023 10:31:57 +0700</pubDate>
+      <guid>http://localhost:1313/obliterate-the-wave/</guid>
+      <description>Working at my previous company had been an incredible journey spanning nearly five years. I wasn&amp;rsquo;t a direct hire but had the privilege of being part of the team through an agency. The company, known for its nurturing work environment, had all the elements conducive to personal and professional growth. The workload was balanced, my co-workers were not just colleagues but friends, and the salary, particularly in a developing country like mine, was more than satisfactory.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi, it&amp;rsquo;s me Kris You may or may not know me. But, that doesn&amp;rsquo;t matter.&#xA;I&amp;rsquo;m here to note what I learn in my journey, it intended as reminder to myself what I have learned, but if you found that my articles here benefit you.&#xA;You are welcome! You want to get connected? feel free to connect to my social media here.</description>
+    </item>
+  </channel>
+</rss>

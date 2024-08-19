@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Somewhere in the middle</title>
+    <link>http://localhost:1313/categories/work/</link>
+    <description>Recent content in Work on Somewhere in the middle</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Oct 2023 10:31:57 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obliterate the Wave</title>
+      <link>http://localhost:1313/obliterate-the-wave/</link>
+      <pubDate>Sat, 07 Oct 2023 10:31:57 +0700</pubDate>
+      <guid>http://localhost:1313/obliterate-the-wave/</guid>
+      <description>Working at my previous company had been an incredible journey spanning nearly five years. I wasn&amp;rsquo;t a direct hire but had the privilege of being part of the team through an agency. The company, known for its nurturing work environment, had all the elements conducive to personal and professional growth. The workload was balanced, my co-workers were not just colleagues but friends, and the salary, particularly in a developing country like mine, was more than satisfactory.</description>
+    </item>
+  </channel>
+</rss>
