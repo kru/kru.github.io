@@ -22,6 +22,6 @@ In addition, if you want to customize your Gnome, you may install additional app
 In the last 8 months, I change my distro and window manager. It is Debian and DWM, they have been amazing so far.
 You can check them [here](https://github.com/kru/dotfiles/tree/debian).
 
-![debian-fastfetch](https://private-user-images.githubusercontent.com/11352023/359104621-ac144c2b-6d29-4cf1-90e3-74c0d37c7152.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQwNzE4MDYsIm5iZiI6MTcyNDA3MTUwNiwicGF0aCI6Ii8xMTM1MjAyMy8zNTkxMDQ2MjEtYWMxNDRjMmItNmQyOS00Y2YxLTkwZTMtNzRjMGQzN2M3MTUyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE5VDEyNDUwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyZTdmZGY4MzQ5NTEyNjUzMDI2ZTk1ZjZiZTFmNmJkYWM5Y2M5ZTgxODJmYWYwMGNhMzY2MzM5MWYzMGVkODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.falvFvmAk8U2P4CVKsvOCleNfq3VI8o8D0dshOsUMng)
+![debian-fastfetch](/assets/images/debian.jpg)
 
 I need to set a bash script to automate the installation and setup process.
