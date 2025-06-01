@@ -88,7 +88,7 @@ while (keepRunning) {
 }
 ```
 
-It took 56 seconds to complete the process, this like forever for modern computer, I once saw a challenge about 1 Billion rows and they did it under 2 seconds (but I'm not sure about the hardware specs). This was a decent number for me back then, the most important things is get the shit done to have the bussines keep running. I can do optimization another time outside this task (that was my thought).
+It took 56 seconds to complete the process, this like forever for modern computer, I once saw a challenge about 1 Billion rows and they did it under 2 seconds (but I'm not sure about the hardware specs). This was a decent number for me back then, the most important things is get the shit done to have the business keep running. I can do optimization another time outside this task (that was my thought).
 
 Several lessons I got from this simple migration task are:
 
@@ -97,5 +97,4 @@ Several lessons I got from this simple migration task are:
 3. Migration should be done in Chunk of data, in order to guarantee the integrity(no redundancy and corruption) and correctness.
 4. The script should be fault tolerance and run as efficient as possible and can be resumed.
 
-***PS: I have done enterprise level migration (database migration) in the past, which were leveraging some pipeline like logstash and pubsub.
-The process were time consuming. Maybe I need to write about how it was done, I need to revisit the script and recall some details.***
+***PS: Turn out the unrolling loops not necessary makes things faster in high level language like JS, some smart engineers that work on V8 (node engine have done that under the hood).***

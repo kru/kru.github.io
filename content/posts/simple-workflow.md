@@ -25,4 +25,4 @@ You can check them [here](https://github.com/kru/dotfiles/tree/debian).
 
 ![debian-fastfetch](https://github.com/kru/kru.github.io/blob/master/assets/images/debian.jpg?raw=true)
 
-I need to set a bash script to automate the installation and setup process.
+I may need to set a bash script to automate the installation and setup process.
