@@ -5,6 +5,7 @@ tags: [
   "fpga",
   "fpga-intro",
 ]
+draft: true
 ---
 
 ## Motivation
