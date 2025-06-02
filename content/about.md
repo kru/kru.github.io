@@ -11,6 +11,6 @@ url = "about"
 
 I'm a Software Engineer who love to tinker with low level stuff (mostly FPGA, Arduino, computer graphics and computer architecture).
 
-There is blog section in this page, it purposely to note what I learned in my journey and as a reference for myself. That said, It won't be a comprehensive source. I'll try my best to add detailed post to my knowledge at time I write it.
+There is blog section in this page, it purposely to note what I learned in my journey and as a reference for myself. That said, It won't be a comprehensive source. I do my best to add detailed post of my knowledge at time I write it.
 
 You want to get connected? feel free to connect to my social media [here](https://kris-dev.cloud).
