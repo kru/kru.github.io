@@ -5,3 +5,4 @@ _posts/2016-08-07-the-web-developer.markdown
 _posts/*.odt
 _posts/*.wps
 public/*
+resources/*
