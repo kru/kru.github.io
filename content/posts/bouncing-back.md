@@ -6,6 +6,7 @@ tags: [
   "work",
   "self growth",
 ]
+draft: true
 ---
 
 It has been a month since the unexpected layoff, and my journey to find a new opportunity has been nothing short of challenging. The job market is more competitive than ever, with resume filtering becoming increasingly stringent, making it even harder to secure initial interviews. During this time, I've encountered a significant shift in the hiring process, with many companies now incorporating competitive programming problems into their assessments.

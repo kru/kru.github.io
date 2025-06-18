@@ -6,6 +6,7 @@ tags: [
   "work",
   "self growth",
 ]
+draft: true
 ---
 
 This week, I found myself engrossed in a series of YouTube videos—not the usual technical fare, but rather a collection of career advice and broader insights into software development. It was one of those late-night excursions into the world of online content. After I'd concluded my viewing, I decided it was time to call it a night and prepared to retire to bed. Yet, as I lay there, I couldn't shake off the lingering curiosity, so I reached for my trusty iPad and absently refreshed my video suggestions.
