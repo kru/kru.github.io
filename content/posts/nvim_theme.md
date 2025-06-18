@@ -10,4 +10,5 @@ I name it Judo, here is how its look like at a glance.
 
 ![judo-nvim-theme](/images/nvim_theme_judo.png)
 
+Interested enough to try it, here you go [judo.nvim](https://github.com/kru/judo.nvim)
 
