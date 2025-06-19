@@ -1,6 +1,12 @@
 ---
 title: "a Neovim theme"
 date: 2025-06-18T21:04:10+07:00
+tags: [
+    "text-editor",
+    "work",
+    "vim",
+    "neovim",
+]
 ---
 
 Crafting a Neovim theme takes times, You don't have to do it from scratch.

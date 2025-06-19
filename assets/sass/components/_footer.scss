@@ -1,11 +1,13 @@
 @import "../utils/variables";
 
 .footer {
-  padding: 15px;
+  background-color: #292a2d;
   text-align: center;
-  background-color: $backgroundDarker;
+  padding: 10px 0;
+  font-size: 0.9em;
+  width: 100%;
 }
 
-.footerLink {
-  color: $white;
+.footer a {
+  color: $green;
 }

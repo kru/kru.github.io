@@ -25,6 +25,6 @@ I bought Xilinx Spartan XC6SL9, Unfortunately, the support software (ISE 14.7) f
 3. Kubuntu 19
 4. 
 
-Note: My host OS to run the VM is Linux Mint 21, I create another VM (Debian for my work related stuff) this way I'll not messed up each other as they are on different guest OS.
+Note: My host OS is Linux Mint 21, I create another VM (Debian for my work related stuff) this way I'll not messed up each other as they are on different guest OS.
 
 ## Simple Program 

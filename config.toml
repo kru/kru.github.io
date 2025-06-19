@@ -1,4 +1,4 @@
-baseURL = 'https://kru.github.io/'
+baseURL = 'https://krisrp.dev'
 languageCode = 'en-us'
 title = 'Somewhere in the middle'
 theme = 'nightfall'
@@ -11,35 +11,12 @@ theme = 'nightfall'
     name = "posts"
     weight = 0
     url = "/posts"
-  [[menu.header]]
-    name = "about"
-    weight = 1
-    url = "about"
 
 [params]
 author = "Kris Pamungkas"
 user = "kris"
-hostname = "https://100.114.106.67"
+hostname = "r00t"
 
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
 
-[[params.social]]
-key = 0
-name = "github"
-url = "https://github.com/kru"
-
-[[params.social]]
-key = 1
-name = "twitter"
-url = "https://x.com/krist_pamungkas"
-
-[[params.social]]
-key = 2
-name = "linkedin"
-url = "https://www.linkedin.com/in/krisrp/"
-
-[[params.social]]
-key = 3
-name = "email"
-url = "mailto:brief.tube2096 [at] krisrp.dev"
