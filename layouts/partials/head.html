@@ -13,5 +13,3 @@
 
 {{ $style := resources.Get "sass/main.scss" | toCSS | minify | fingerprint }}
 <link href="{{ $style.RelPermalink }}" rel="stylesheet">
-
-{{ partial "custom-head.html" . }}
