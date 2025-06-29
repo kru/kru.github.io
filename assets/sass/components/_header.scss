@@ -41,3 +41,15 @@
   color: $white;
   text-decoration: none;
 }
+
+.cursor {
+  display: inline-block;
+  width: 10px;
+  height: 2px;
+  background-color: green;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
