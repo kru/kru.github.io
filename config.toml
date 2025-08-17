@@ -20,3 +20,7 @@ hostname = "r00t"
 readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
