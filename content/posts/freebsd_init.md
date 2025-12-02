@@ -82,9 +82,10 @@ Save and exit. the use the following command
 
 ```sh
 # 9. Enable and start the WireGuard service (userspace mode activates automatically)
-sysrc wireguard_enable="YES"
-sysrc wireguard_interfaces="wg0"
-service wireguard start
+#sysrc wireguard_enable="YES"
+#sysrc wireguard_interfaces="wg0"
+#service wireguard start
+wg-quick up wg0
 ```
 
 Check your interface using ifconfig command and set the following PF rule
