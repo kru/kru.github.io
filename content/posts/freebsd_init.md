@@ -111,3 +111,27 @@ ifconfig wg0
 wg show wg0
 ```
 
+PS: updated /etc/pf.conf rules to a stricter one
+
+```sh
+ext_if = "eth0"
+wg0_if = "wg0"
+wg0_networks = "10.77.0.0/24"
+
+set skip on lo
+
+nat on $ext_if from { $wg0_networks } to any -> ($ext_if)
+
+pass quick on $wg0_if
+
+block in
+block out
+
+# Allow SSH (change port if you moved it)
+pass in on $ext_if proto tcp to port ssh
+# WireGuard itself
+pass in on $ext_if proto udp to port 51820
+
+pass out on $ext_if
+```
+
